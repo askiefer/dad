@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Media
 
 # View.
 #   1 = List

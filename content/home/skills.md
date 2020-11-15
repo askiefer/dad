@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "handshake"
+  icon_pack = "fas"
+  name = "Negotiations"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "book-open"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Labor Relations"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "tennis"
+  icon_pack = "custom"
+  name = "Tennis"
   description = "10%"
 
 # Uncomment to use emoji icons.
@@ -43,9 +43,9 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # [[feature]]
-#  icon = "your-custom-icon-name"
+#  icon = "tennis"
 #  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+#  name = "Tennis"
+#  description = "10%"
 
 +++

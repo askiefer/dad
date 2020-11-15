@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: H. Joseph Schimansky
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Labor Relations
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: FLRA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Collective Bargaining Agreements
+- Dispute Resolution
+- Major League Baseball
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Labor Relations
+    institution: University of Illinois
+    year: 1980
+  - course: ABD Ph.D. in Philosophy
+    institution: University of Illinois
+    year: 1980
+  - course: BS in Philosophy
+    institution: University of Pittsburgh
+    year: 1973
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: mailto:jschim@verizon.net  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/joseph-schimansky-b0816246/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Joe Schimansky is the former Executive Director of Federal Service Impasses Panel (FSIP), and has more than 32 years of experience with the FLRA and its major components. As the FSIP’s Executive Director, Mr. Schimansky provided leadership and supervision to the professional staff that investigates, analyzes, and makes recommendations and binding decisions to resolve negotiation disputes between Federal agencies and the labor organizations representing their employees.  He participated in numerous informal conferences and mediation-arbitration proceedings, both as the FSIP’s primary representative and assisting various FSIP Members, which resulted in voluntary settlements.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mr. Schimansky issued hundreds of Decisions and Orders by direction of the FSIP, and numerous Opinions and Decisions (i.e., interest arbitration awards). Mr. Schimansky was part of the task force whose work led to the creation of the FLRA’s Collaboration and Alternative Dispute Resolution Office (CADRO). He has provided training to Federal agencies throughout his career and most recently assisted the Air Force General Counsel’s Office of Negotiation and Dispute Resolutions in efforts to rebrand and refresh its ADR program.
+
+Mr. Schimansky presents several programs for FELTG, including training on negotiability, negotiation techniques, grievances, official time, and many more. He also presents at FELTG’s FLRA Law Week.
