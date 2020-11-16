@@ -20,11 +20,11 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: mzbkvawr
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
+      captcha: true
+email_form: 2
 design:
   columns: '2'
 ---

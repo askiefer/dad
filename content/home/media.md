@@ -70,9 +70,6 @@ subtitle = "New & Quotes"
 - SSA judges sue Impasses Panel<br/>
 [Federal Computer Week](https://fcw.com/articles/2020/04/22/aalj-sues-impasse-panel-russell.aspx)
 ----
-- Department of the Air Force, AFL-CIO Case No. 96 FSIP 038<br/>
-[FLRA.gov](https://www.flra.gov/fsip/finalact/96fs_038.html)
-----
 - Obama Dismisses Bush Impasses Panel: Who’s Next?<br/>
 [FedSmith.com](https://www.fedsmith.com/2009/03/13/obama-dismisses-bush-impasses-panel-whos/)
 

@@ -69,7 +69,7 @@ subtitle = ""
 
 Joe lives with his wife Cathy of over 30 years in Bethesda, MD.
 
-In his spare time, Joe plays tennis and softball. He is an avid crossword-doer 
+In his spare time, Joe plays tennis and softball. He is an avid crossworder
 and enjoys watching the occasional cooking show.
 
 Joe has a son, Nicholas, who is a cardiologist in Manhattan, NY and a daughter, Anna, who is a software engineer in the San Francisco Bay Area.

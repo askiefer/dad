@@ -2,10 +2,10 @@
 name = "Tinos"
 
 # Optional Google font URL
-google_fonts = "Tinos:400;700"
+google_fonts = "Montserrat:500|Tinos:400;700;900"
 
 # Font families
-heading_font = "Tinos"
+heading_font = "Montserrat"
 body_font = "Tinos"
-nav_font = "Tinos"
+nav_font = "Montserrat"
 mono_font = "Tinos"

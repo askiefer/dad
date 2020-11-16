@@ -10,7 +10,7 @@ role: Labor Relations
 
 # Organizations/Affiliations
 organizations:
-- name: FLRA
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,9 +44,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/joseph-schimansky-b0816246/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: book-open
+  icon_pack: fas
+  link: https://www.flra.gov/search?keys=joseph+schimansky
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
